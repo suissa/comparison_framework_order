@@ -1,0 +1,3 @@
+A dojo exercise to create a simple order system in multiple frameworks creating a tutorial for them.
+
+Please create a new branch for every framework with the pattern language_framework. eg: php_zend, ruby_rails, python_django
