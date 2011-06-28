@@ -3,3 +3,4 @@ A dojo exercise to create a simple order system in multiple frameworks creating 
 Use the correct branch for your framework.
 
 Only admin can create products, categories, payments.
+Fill with data city, state and country.
