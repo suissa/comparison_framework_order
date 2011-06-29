@@ -6,3 +6,38 @@ Only admin can create products, categories, payments.
 Fill with data city, state and country.
 
 Please commit in every modification.
+
+Every branch MUST HAVE this pattern tutorial
+
+//pt-br
+1 - Introdução
+	Pequeno histórico do framework, algumas funcionalidades, características, etc.
+
+2 - Instalação
+	Download, instalação, configuração, requisitos.
+
+3 - Organização do código
+	Como estão organizados as pastas e arquivos
+
+4 - Criação de arquivos básicos
+	Arquivos básicos que o framework gera automaticamente. Scaffolding, etc
+
+5 - Manipulação do layout
+	Como o framework organiza e manipula o layout das telas. Locais dos arquivos, características, etc
+
+6 - Controladores
+	Explicação sobre os controladores no framework: o que são, como funcionam, funções básicas dos controladores, fluxo da aplicação, etc
+
+7 - Models
+	O que são models. Como acessam o banco, como fazem o mapeamento dos campos. Como realizar consultas usando a camada de abstração do banco de dados, como tratar essas consultas, como repassá-las ao framework.
+
+8 - Criação e validação de formulários
+	Como é realizada a criação e validação de campos de formulário utilizandos os helpers da aplicação.
+
+9 - Criação da aplicação
+	Criação da aplicação demonstrando os conceitos aprendidos na prática.
+
+10 - Conclusão
+	Apresentada a opinião de cada um sobre a utilização do framework
+
+11 - Links para referência
