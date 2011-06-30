@@ -1,46 +1,46 @@
 /*
-A ideia b&aacutesica é criar o mesmo sistema de pedidos on line em 
+A ideia basica e criar o mesmo sistema de pedidos on line em 
 diversos frameworks e o criador fazer um tutorial 
 padrão para que possamos comparar o mesmo sistema em diferentes fws.
 */
 Use o branch correto para o seu framework.
 
 Regras:
-Apenas o admin poderá criar produtos, categorias e tipos de pagamento. Ele tb deverá aprovar ou reprovar os pedidos.
-Preencher o banco com as cidades e estados do seu país, brasil.sql.
+Apenas o admin podera criar produtos, categorias e tipos de pagamento. Ele tb deverá aprovar ou reprovar os pedidos.
+Preencher o banco com as cidades e estados do seu pais, brasil.sql.
 
 Por favor commite cada modificação.
 
-Todo branch DEVE TER este tutorial padrão:
+Todo branch DEVE TER este tutorial padrao:
 
-1 - Introdução
-	Pequeno histórico do framework, algumas funcionalidades, características, etc.
+1 - Introducao
+	Pequeno histórico do framework, algumas funcionalidades, caracteristicas, etc.
 
-2 - Instalação
-	Download, instalação, configuração, requisitos.
+2 - Instalacao
+	Download, instalacao, configuracao, requisitos.
 
-3 - Organização do código
-	Como estão organizados as pastas e arquivos
+3 - Organizacao do codigo
+	Como estao organizados as pastas e arquivos
 
-4 - Criação de arquivos básicos
+4 - Criacao de arquivos básicos
 	Arquivos básicos que o framework gera automaticamente. Scaffolding, etc
 
-5 - Manipulação do layout
-	Como o framework organiza e manipula o layout das telas. Locais dos arquivos, características, etc
+5 - Manipulacao do layout
+	Como o framework organiza e manipula o layout das telas. Locais dos arquivos, caracteristicas, etc
 
 6 - Controladores
-	Explicação sobre os controladores no framework: o que são, como funcionam, funções básicas dos controladores, fluxo da aplicação, etc
+	Explicacao sobre os controladores no framework: o que são, como funcionam, funcoes basicas dos controladores, fluxo da aplicacao, etc
 
 7 - Models
-	O que são models. Como acessam o banco, como fazem o mapeamento dos campos. Como realizar consultas usando a camada de abstração do banco de dados, como tratar essas consultas, como repassá-las ao framework.
+	O que sao models. Como acessam o banco, como fazem o mapeamento dos campos. Como realizar consultas usando a camada de abstracao do banco de dados, como tratar essas consultas, como repassa-las ao framework.
 
-8 - Criação e validação de formulários
-	Como é realizada a criação e validação de campos de formulário utilizandos os helpers da aplicação.
+8 - Criacao e validacao de formularios
+	Como e realizada a criacao e validação de campos de formulário utilizandos os helpers da aplicacao.
 
-9 - Criação da aplicação
-	Criação da aplicação demonstrando os conceitos aprendidos na prática.
+9 - Criação da aplicacao
+	Criação da aplicacao demonstrando os conceitos aprendidos na pratica.
 
-10 - Conclusão
-	Apresentada a opinião de cada um sobre a utilização do framework
+10 - Conclusao
+	Apresentada a opinião de cada um sobre a utilizacao do framework
 
-11 - Links para referência
+11 - Links para referencia
