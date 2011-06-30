@@ -14,7 +14,7 @@ Por favor commite cada modificacao.
 Todo branch DEVE TER este tutorial padrao:
 
 1 - Introducao
-	Pequeno histórico do framework, algumas funcionalidades, caracteristicas, etc.
+	Pequeno historico do framework, algumas funcionalidades, caracteristicas, etc.
 
 2 - Instalacao
 	Download, instalacao, configuracao, requisitos.
@@ -35,7 +35,7 @@ Todo branch DEVE TER este tutorial padrao:
 	O que sao models. Como acessam o banco, como fazem o mapeamento dos campos. Como realizar consultas usando a camada de abstracao do banco de dados, como tratar essas consultas, como repassa-las ao framework.
 
 8 - Criacao e validacao de formularios
-	Como e realizada a criacao e validação de campos de formulario utilizandos os helpers da aplicacao.
+	Como e realizada a criacao e validacao de campos de formulario utilizandos os helpers da aplicacao.
 
 9 - Criacao da aplicacao
 	Criacao da aplicacao demonstrando os conceitos aprendidos na pratica.
