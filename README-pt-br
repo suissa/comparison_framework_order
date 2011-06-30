@@ -1,0 +1,46 @@
+/*
+A ideia básica é criar o mesmo sistema de pedidos on line em 
+diversos frameworks e o criador fazer um tutorial 
+padrão para que possamos comparar o mesmo sistema em diferentes fws.
+*/
+Use o branch correto para o seu framework.
+
+Regras:
+Apenas o admin poderá criar produtos, categorias e tipos de pagamento. Ele tb deverá aprovar ou reprovar os pedidos.
+Preencher o banco com as cidades e estados do seu país, brasil.sql.
+
+Por favor commite cada modificação.
+
+Todo branch DEVE TER este tutorial padrão:
+
+1 - Introdução
+	Pequeno histórico do framework, algumas funcionalidades, características, etc.
+
+2 - Instalação
+	Download, instalação, configuração, requisitos.
+
+3 - Organização do código
+	Como estão organizados as pastas e arquivos
+
+4 - Criação de arquivos básicos
+	Arquivos básicos que o framework gera automaticamente. Scaffolding, etc
+
+5 - Manipulação do layout
+	Como o framework organiza e manipula o layout das telas. Locais dos arquivos, características, etc
+
+6 - Controladores
+	Explicação sobre os controladores no framework: o que são, como funcionam, funções básicas dos controladores, fluxo da aplicação, etc
+
+7 - Models
+	O que são models. Como acessam o banco, como fazem o mapeamento dos campos. Como realizar consultas usando a camada de abstração do banco de dados, como tratar essas consultas, como repassá-las ao framework.
+
+8 - Criação e validação de formulários
+	Como é realizada a criação e validação de campos de formulário utilizandos os helpers da aplicação.
+
+9 - Criação da aplicação
+	Criação da aplicação demonstrando os conceitos aprendidos na prática.
+
+10 - Conclusão
+	Apresentada a opinião de cada um sobre a utilização do framework
+
+11 - Links para referência
