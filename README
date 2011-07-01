@@ -1,4 +1,4 @@
-/*
+﻿/*
 A ideia básica é criar o mesmo sistema de pedidos on line em diversos frameworks e o criador fazer um tutorial padrão para que possamos comparar o mesmo sistema em diferentes fws.
 */
 
@@ -13,35 +13,34 @@ Please commit in every modification.
 
 Every branch MUST HAVE this pattern tutorial
 
-//pt-br
-1 - Introdução
-	Pequeno histórico do framework, algumas funcionalidades, características, etc.
+1 - Introduction
+    Brief history of the framework, some features, characteristics, etc.
 
-2 - Instalação
-	Download, instalação, configuração, requisitos.
+2 - setup
+    Download, setup, configuration, requirements.
 
-3 - Organização do código
-	Como estão organizados as pastas e arquivos
+3 - Folders Organization
+    How are organized the folders and files.
 
-4 - Criação de arquivos básicos
-	Arquivos básicos que o framework gera automaticamente. Scaffolding, etc
+4 - Basic Files Creation
+    Basic files of the framework, source generators, scaffolding, etc
 
-5 - Manipulação do layout
-	Como o framework organiza e manipula o layout das telas. Locais dos arquivos, características, etc
+5 - Layout Manipulation
+    How the framework organize and manipulate the screens. Files' localization, characteristics, etc.
 
-6 - Controladores
-	Explicação sobre os controladores no framework: o que são, como funcionam, funções básicas dos controladores, fluxo da aplicação, etc
+6 - Controllers
+    Explanation of the controllers in the framework: what they are, how they work, basic functions of the controllers, application flow, etc.
 
 7 - Models
-	O que são models. Como acessam o banco, como fazem o mapeamento dos campos. Como realizar consultas usando a camada de abstração do banco de dados, como tratar essas consultas, como repassá-las ao framework.
+    How models access the database, how to map the fields. How to perform queries using the abstraction layer of the database, how to treat these queries
 
-8 - Criação e validação de formulários
-	Como é realizada a criação e validação de campos de formulário utilizandos os helpers da aplicação.
+8 - Form Creation and Validation
+    How is the creation and validation of form fields using helpers.
 
-9 - Criação da aplicação
-	Criação da aplicação demonstrando os conceitos aprendidos na prática.
+9 - System Creation
+    Creation of the system to demonstrate the concepts presented.
 
-10 - Conclusão
-	Apresentada a opinião de cada um sobre a utilização do framework
+10 - Conclusion
+    Considerations about the framework
 
-11 - Links para referência
+11 - Reference links
